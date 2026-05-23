@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://corex-causal.netlify.app/logo.png" alt="COREX Logo" width="120" height="120"/>
@@ -457,3 +458,7 @@ Ronin Institute / Rite of Renaissance
 *"Causality is not assumed — it is survived."*
 
 </div>
+=======
+# COREX
+Causal Origin Resolution and Empirical eXamination — An Autonomous Multi-Stage Framework for Robust Causal Discrimination in Data-Driven AI Systems
+>>>>>>> bdce1911f5b09e56a9a6f69341e881e2d6a4635d
