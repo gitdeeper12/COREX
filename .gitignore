@@ -44,3 +44,5 @@ Thumbs.db
 *.pt
 *.pth
 checkpoints/
+upload_*.py
+*.pyc
