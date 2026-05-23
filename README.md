@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://corex-causal.netlify.app/logo.png" alt="COREX Logo" width="120" height="120"/>
-
 # COREX
 
 ### Causal Origin Resolution and Empirical eXamination
