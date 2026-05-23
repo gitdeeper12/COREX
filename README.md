@@ -9,10 +9,10 @@
 
 ---
 
-[![PyPI version](https://img.shields.io/pypi/v/corex?color=1A3C6E&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/corex-causal-causal-causal-causal)
-[![PyPI downloads](https://img.shields.io/pypi/dm/corex?color=2E75B6&label=Downloads&logo=pypi&logoColor=white)](https://pypi.org/project/corex-causal-causal-causal-causal/#files)
-[![Python versions](https://img.shields.io/pypi/pyversions/corex?color=306998&logo=python&logoColor=white)](https://pypi.org/project/corex-causal-causal-causal-causal)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20351233.svg)](https://doi.org/10.5281/zenodo.20351233)
+[![PyPI version](https://img.shields.io/pypi/v/corex-causal?color=1A3C6E&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/corex-causal-causal-causal-causal-causal)
+[![PyPI downloads](https://img.shields.io/pypi/dm/corex?color=2E75B6&label=Downloads&logo=pypi&logoColor=white)](https://pypi.org/project/corex-causal-causal-causal-causal-causal/#files)
+[![Python versions](https://img.shields.io/pypi/pyversions/corex?color=306998&logo=python&logoColor=white)](https://pypi.org/project/corex-causal-causal-causal-causal-causal)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20351233-blue.svg)](https://doi.org/10.5281/zenodo.20351233)
 [![OSF Preregistration](https://img.shields.io/badge/OSF-Preregistered-blue?logo=osf&logoColor=white)](https://doi.org/10.17605/OSF.IO/3ABZF)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8903--0029-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8903-0029)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -295,7 +295,7 @@ Default weights:
 | 🦊 **GitLab** (Mirror) | [gitlab.com/gitdeeper12/COREX](https://gitlab.com/gitdeeper12/COREX) | CI/CD mirror |
 | 🪣 **Bitbucket** (Mirror) | [bitbucket.org/gitdeeper-12/COREX](https://bitbucket.org/gitdeeper-12/COREX) | Enterprise mirror |
 | 🏔️ **Codeberg** (Mirror) | [codeberg.org/gitdeeper12/COREX](https://codeberg.org/gitdeeper12/COREX) | Open-source community |
-| 📦 **PyPI** | [pypi.org/project/corex-causal-causal](https://pypi.org/project/corex-causal-causal-causal-causal) | Python package distribution |
+| 📦 **PyPI** | [pypi.org/project/corex-causal-causal-causal](https://pypi.org/project/corex-causal-causal-causal-causal-causal) | Python package distribution |
 | 🔬 **Zenodo** | [doi.org/10.5281/zenodo.20351233](https://doi.org/10.5281/zenodo.20351233) | Citable DOI, paper & data |
 | 📋 **OSF Project** | [osf.io/3ABZF](https://osf.io/3ABZF) | Research project registry |
 | 📝 **OSF Preregistration** | [doi.org/10.17605/OSF.IO/3ABZF](https://doi.org/10.17605/OSF.IO/3ABZF) | Pre-registered study protocol |
@@ -340,7 +340,7 @@ git clone https://codeberg.org/gitdeeper12/COREX.git
 | GitLab | [COREX-main.zip](https://gitlab.com/gitdeeper12/COREX/-/archive/main/COREX-main.zip) |
 | Bitbucket | [COREX-main.zip](https://bitbucket.org/gitdeeper-12/COREX/get/main.zip) |
 | Codeberg | [COREX-main.zip](https://codeberg.org/gitdeeper12/COREX/archive/main.zip) |
-| PyPI files | [pypi.org/project/corex-causal-causal/#files](https://pypi.org/project/corex-causal-causal-causal-causal/#files) |
+| PyPI files | [pypi.org/project/corex-causal-causal-causal/#files](https://pypi.org/project/corex-causal-causal-causal-causal-causal/#files) |
 | Zenodo record | [doi.org/10.5281/zenodo.20351233](https://doi.org/10.5281/zenodo.20351233) |
 
 ---
@@ -358,7 +358,7 @@ If COREX contributes to your research, please cite using one of the following fo
   year         = {2026},
   version      = {1.0.0},
   publisher    = {Python Package Index},
-  url          = {https://pypi.org/project/corex-causal-causal-causal-causal},
+  url          = {https://pypi.org/project/corex-causal-causal-causal-causal-causal},
   note         = {Python package, MIT License}
 }
 ```
@@ -449,8 +449,8 @@ Ronin Institute / Rite of Renaissance
 
 **Series BIO-MED-02 · Version 1.0.0 · May 2026**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20351233.svg)](https://doi.org/10.5281/zenodo.20351233)
-[![PyPI](https://img.shields.io/pypi/v/corex?color=1A3C6E)](https://pypi.org/project/corex-causal-causal-causal-causal)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20351233-blue.svg)](https://doi.org/10.5281/zenodo.20351233)
+[![PyPI](https://img.shields.io/pypi/v/corex-causal?color=1A3C6E)](https://pypi.org/project/corex-causal-causal-causal-causal-causal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 *"Causality is not assumed — it is survived."*
