@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use COREX in your research, please cite it as below."
+title: "COREX: Causal Origin Resolution and Empirical eXamination — An Autonomous Multi-Stage Framework for Robust Causal Discrimination in Data-Driven AI Systems"
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    affiliation: "Ronin Institute / Rite of Renaissance"
+    email: "gitdeeper@gmail.com"
+version: 1.0.0
+date-released: 2026-05-23
+doi: "10.5281/zenodo.20351233"
+license: "MIT"
+repository-code: "https://github.com/gitdeeper12/COREX"
+keywords:
+  - "causal inference"
+  - "machine learning"
+  - "shortcut learning"
+  - "representation invariance"
+  - "domain robustness"
+  - "intervention consistency"
+  - "causal discrimination"
+  - "spurious correlations"
+  - "representation artifacts"
+  - "empirical causality"
+type: "software"
+abstract: "COREX is a unified, deterministic computational framework for causal discrimination that treats causality not as an assumed structural property but as an empirically testable characteristic that must survive systematic perturbation. The framework implements a four-axis evaluation pipeline — Statistical Stability, Representation Invariance, Intervention Consistency, and Domain Robustness — and fuses their outputs through a weighted scoring function to produce a calibrated causal classification (CAUSAL, SPURIOUS, or ARTIFACT)."

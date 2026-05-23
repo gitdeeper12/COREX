@@ -1,0 +1,1 @@
+"""COREX test suite"""

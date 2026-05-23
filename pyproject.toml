@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "corex-causal"
+version = "1.0.0"
+description = "COREX: Causal Origin Resolution and Empirical eXamination — An Autonomous Multi-Stage Framework for Robust Causal Discrimination in Data-Driven AI Systems"
+authors = [
+{name = "Samir Baladi", email = "gitdeeper@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+"Development Status :: 4 - Beta",
+"Intended Audience :: Science/Research",
+"Intended Audience :: Healthcare Industry",
+"License :: OSI Approved :: MIT License",
+"Programming Language :: Python :: 3",
+"Programming Language :: Python :: 3.11",
+"Programming Language :: Python :: 3.12",
+"Topic :: Scientific/Engineering :: Artificial Intelligence",
+"Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+"numpy>=2.0.0",
+"scipy>=1.14.0",
+"scikit-learn>=1.5.0",
+]
+
+[project.optional-dependencies]
+learnable = ["torch>=2.4.0"]
+dev = ["pytest>=7.0.0", "pytest-cov>=4.0.0", "black>=22.0.0", "isort>=5.12.0"]
+
+[project.urls]
+"Homepage" = "https://corex-causal.netlify.app"
+"Dashboard" = "https://corex-causal.netlify.app/dashboard"
+"Documentation" = "https://corex-causal.netlify.app/documentation"
+"Repository" = "https://github.com/gitdeeper12/COREX"
+"GitLab" = "https://gitlab.com/gitdeeper12/COREX"
+"PyPI" = "https://pypi.org/project/corex"
+"DOI" = "https://doi.org/10.5281/zenodo.20351233"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["corex*"]

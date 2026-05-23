@@ -1,0 +1,19 @@
+COREX
+Copyright (c) 2026 Samir Baladi
+Licensed under the MIT License.
+
+Causal Origin Resolution and Empirical eXamination
+An Autonomous Multi-Stage Framework for Robust Causal Discrimination in Data-Driven AI Systems
+
+This software includes the following dependencies:
+
+· NumPy: BSD License
+· SciPy: BSD License
+· scikit-learn: BSD License
+· PyTorch (optional): BSD-style License
+
+COREX: Causal Origin Resolution and Empirical eXamination
+DOI: 10.5281/zenodo.20351233
+
+Contact: gitdeeper@gmail.com
+Web: https://corex.netlify.app

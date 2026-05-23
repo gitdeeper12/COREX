@@ -1,0 +1,147 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║                         COREX COMPLETION CERTIFICATE                          ║
+║                                                                               ║
+║     Causal Origin Resolution and Empirical eXamination — An Autonomous       ║
+║        Multi-Stage Framework for Robust Causal Discrimination in             ║
+║                          Data-Driven AI Systems                              ║
+║                                                                               ║
+║                           v1.0.0                                              ║
+║                           May 2026                                            ║
+║                                                                               ║
+║                           DOI: 10.5281/zenodo.20351233                        ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+This certificate formally acknowledges the completion of Project COREX,
+a unified, deterministic computational framework that treats causality not as 
+an assumed structural property but as an empirically testable characteristic 
+that must survive systematic perturbation.
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ PROJECT OVERVIEW                                                              │
+├───────────────────────────────────────────────────────────────────────────────┤
+
+Project Code:     COREX
+Version:          1.0.0
+Principal Investigator: Samir Baladi
+Affiliation:      Ronin Institute / Rite of Renaissance
+Submission Date:  May 2026
+Status:           ✅ COMPLETED
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ THEORETICAL ACHIEVEMENTS                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+
+✓ Statistical Stability Module
+  - Cross-dataset conditional invariance test
+  - Kernel density estimation, pairwise KL divergence
+  - Flags unstable feature dimensions
+
+✓ Representation Invariance Module
+  - Tests relationship persistence across transformations
+  - Linear projections, autoencoders, noise injection, dropout, PCA
+
+✓ Domain Robustness Module
+  - Cross-environment prediction stability
+  - Pseudo-environment construction via clustering
+  - Coefficient of variation across environments
+
+✓ Intervention Consistency Engine
+  - Propensity-score matched observational comparisons
+  - Synthetic counterfactual generation
+  - Direct feature perturbation with counterfactual prediction
+
+✓ COREX Scoring Function
+  - Weighted linear combination: COREX = w₁·S + w₂·R + w₃·I + w₄·D
+  - Default weights: S=0.25, R=0.25, I=0.30, D=0.20
+
+✓ Decision Thresholds
+  - CAUSAL: ≥ 0.80 (all modules stable, intervention consistent)
+  - SPURIOUS: 0.50–0.79 (domain shift OR intervention instability)
+  - ARTIFACT: < 0.50 (representation invariance fails)
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ VALIDATION RESULTS                                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+
+┌─────────────────────────────────┬─────────────────────────────────────────────┐
+│ Metric                          │ Value                                       │
+├─────────────────────────────────┼─────────────────────────────────────────────┤
+│ C-Precision                     │ 0.91                                        │
+│ C-Recall                        │ 0.88                                        │
+│ False Causal Rate (FCR)         │ 0.07                                        │
+│ COREX + learnable layer         │ 0.94 / 0.91 / 0.05                         │
+│ IRM baseline                    │ 0.76 / 0.71 / 0.23                         │
+│ Conditional independence        │ 0.69 / 0.65 / 0.31                         │
+│ Synthetic datasets              │ 1,500                                      │
+│ Default weights                 │ 4                                          │
+│ Decision thresholds             │ 3 classes                                  │
+└─────────────────────────────────┴─────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ DEPLOYMENT PLATFORMS                                                          │
+├───────────────────────────────────────────────────────────────────────────────┤
+
+┌─────────────────┬─────────────────────────────────────────────────────────────┐
+│ Platform        │ URL                                                         │
+├─────────────────┼─────────────────────────────────────────────────────────────┤
+│ GitHub (Primary)│ https://github.com/gitdeeper12/COREX                       │
+│ GitLab (Mirror) │ https://gitlab.com/gitdeeper12/COREX                       │
+│ Codeberg (Mirror│ https://codeberg.org/gitdeeper12/COREX                     │
+│ Bitbucket (Mirro│ https://bitbucket.org/gitdeeper-12/COREX                   │
+│ PyPI            │ https://pypi.org/project/corex                             │
+│ Netlify (Web)   │ https://corex-causal.netlify.app                                  │
+│ Zenodo (DOI)    │ https://doi.org/10.5281/zenodo.20351233                    │
+└─────────────────┴─────────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ CITATION                                                                      │
+├───────────────────────────────────────────────────────────────────────────────┤
+
+@software{baladi2026corex,
+  author       = {Samir Baladi},
+  title        = {COREX: Causal Origin Resolution and Empirical eXamination —
+                  An Autonomous Multi-Stage Framework for Robust Causal 
+                  Discrimination in Data-Driven AI Systems},
+  year         = {2026},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.20351233},
+  url          = {https://github.com/gitdeeper12/COREX},
+  license      = {MIT}
+}
+
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ PRINCIPAL INVESTIGATOR                                                        │
+├───────────────────────────────────────────────────────────────────────────────┤
+
+Name:     Samir Baladi
+Title:    Interdisciplinary AI Researcher — Causal Machine Learning & Biomedical AI
+Email:    gitdeeper@gmail.com
+ORCID:    0009-0003-8903-0029
+Web:      https://corex-causal.netlify.app
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "Causality is not assumed, inferred from semantic plausibility, or read    ║
+║    from a graph — it is survived or rejected under systematic empirical      ║
+║    perturbation. A relationship is assigned causal status only when it       ║
+║    demonstrably withstands statistical distribution shift, representation    ║
+║    transformation, environmental domain change, and simulated intervention.  ║
+║    Anything that fails any of these axes is classified as either a spurious  ║
+║    correlation or a representation artifact."                                ║
+║                                                                               ║
+║                              — Samir Baladi, May 2026                         ║
+║                                                                               ║
+║   ┌─────────────────────────────────────────────────────────────────────┐     ║
+║   │                         COREX SCIENCE PORTAL                          │     ║
+║   │                         corex-causal.netlify.app                            │     ║
+║   │      Statistical · Representation · Domain · Intervention           │     ║
+║   │          Causal | Spurious | Artifact — 91% Precision               │     ║
+║   └─────────────────────────────────────────────────────────────────────┘     ║
+║                                                                               ║
+║                    DOI: 10.5281/zenodo.20351233                               ║
+║                                                                               ║
+║                              ✅ COMPLETED                                     ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
